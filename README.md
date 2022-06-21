@@ -21,5 +21,5 @@
   
    ##
   
-    ![snake gif](https://github.com/athelio/athelio/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
